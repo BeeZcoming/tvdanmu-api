@@ -381,9 +381,9 @@ EdgeOne Pages 已更名为 EdgeOne Makers，现有项目无需因品牌更名迁
 ### 一键部署
 点击以下按钮即可将项目快速部署到 Cloudflare：
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/BeeZcoming/danmu-api)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/BeeZcoming/tvdanmu-api)
 
-**注意**：请将按钮链接中的 `https://github.com/BeeZcoming/danmu-api` 替换为你的实际 Git 仓库地址。编辑 `README.md` 并更新链接后，推送到仓库，点击按钮即可自动克隆和部署。
+**注意**：请将按钮链接中的 `https://github.com/BeeZcoming/tvdanmu-api` 替换为你的实际 Git 仓库地址。编辑 `README.md` 并更新链接后，推送到仓库，点击按钮即可自动克隆和部署。
 - **设置环境变量**：部署后，在 Cloudflare 仪表板中：
   1. 转到你的 Workers 项目。
   2. 转到“Settings” > “Variables”。
